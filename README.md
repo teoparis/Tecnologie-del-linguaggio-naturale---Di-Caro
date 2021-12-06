@@ -1,7 +1,5 @@
 # Tecnologie-del-linguaggio-naturale---Di-Caro
 
-###### Francesco Sannicola, Matteo Parisi
-
 ## Prima-Seconda esercitazione
 
 #### Introduzione
